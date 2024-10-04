@@ -14,7 +14,7 @@
 <h3 align="center">Modern UI/UX SaaS Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>Avinash Pandey</b></a> 
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@spherisoft/videos" target="_blank"><b>Avinash Pandey</b></a> 
     </div>
 </div>
 
